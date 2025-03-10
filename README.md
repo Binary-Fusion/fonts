@@ -1,2 +1,2 @@
 # fonts
-## fonts using CSS font-face rule to applie font styles
+### fonts using CSS font-face rule to apply font styles
