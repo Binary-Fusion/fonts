@@ -1,0 +1,771 @@
+/* 1. Aclonica */
+@font-face {
+    font-family: 'Aclonica';
+    src: url('./Aclonica/Aclonica-Regular.ttf');
+    font-weight: 400;
+    font-style: normal;
+}
+
+/* 2. Antonio */
+@font-face {
+    font-family: 'Antonio';
+    src: url('./Antonio/Antonio-Light.ttf');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Antonio';
+    src: url('./Antonio/Antonio-Regular.ttf');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Antonio';
+    src: url('./Antonio/Antonio-Medium.ttf');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Antonio';
+    src: url('./Antonio/Antonio-SemiBold.ttf');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Antonio';
+    src: url('./Antonio/Antonio-Bold.ttf');
+    font-weight: 700;
+    font-style: normal;
+}
+
+/* 3. Maximum Impact */
+@font-face {
+    font-family: 'Maximum Impact';
+    src: url('./Maximum_Impact/Maximum Impact.ttf');
+    font-weight: 400;
+    font-style: normal;
+}
+
+/* 4. Readex Pro */
+@font-face {
+    font-family: 'Readex Pro';
+    src: url('./Readex_Pro/ReadexPro-Light.ttf');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Readex Pro';
+    src: url('./Readex_Pro/ReadexPro-Regular.ttf');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Readex Pro';
+    src: url('./Readex_Pro/ReadexPro-Medium.ttf');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Readex Pro';
+    src: url('./Readex_Pro/ReadexPro-SemiBold.ttf');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Readex Pro';
+    src: url('./Readex_Pro/ReadexPro-Bold.ttf');
+    font-weight: 700;
+    font-style: normal;
+}
+
+/* 5. Red Rose */
+@font-face {
+    font-family: 'Red Rose';
+    src: url('./Red_Rose/RedRose-Light.ttf');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Red Rose';
+    src: url('./Red_Rose/RedRose-Regular.ttf');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Red Rose';
+    src: url('./Red_Rose/RedRose-Medium.ttf');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Red Rose';
+    src: url('./Red_Rose/RedRose-SemiBold.ttf');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Red Rose';
+    src: url('./Red_Rose/RedRose-Bold.ttf');
+    font-weight: 700;
+    font-style: normal;
+}
+
+/* 6. Russo One */
+@font-face {
+    font-family: 'Russo One';
+    src: url('./Russo_One/RussoOne-Regular.ttf');
+    font-weight: 400;
+    font-style: normal;
+}
+/* 7. Montserrat */
+@font-face {
+    font-family: 'Montserrat';
+    src: url('./Montserrat/Montserrat-Light.ttf');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Montserrat';
+    src: url('./Montserrat/Montserrat-Regular.ttf');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Montserrat';
+    src: url('./Montserrat/Montserrat-Medium.ttf');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Montserrat';
+    src: url('./Montserrat/Montserrat-Bold.ttf');
+    font-weight: 700;
+    font-style: normal;
+}
+
+/* 9. System-Ui */
+/* System-ui is a keyword that maps to the system font, so no @font-face needed */
+
+/* 10. Monospace */
+/* Monospace is a generic font family, so no @font-face needed */
+
+/* 11. Dancing Script */
+
+@font-face {
+    font-family: 'Dancing Script';
+    src: url('./Dancing_Script/DancingScript-Regular.ttf');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Dancing Script';
+    src: url('./Dancing_Script/DancingScript-Medium.ttf');
+    font-weight: 500;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Dancing Script';
+    src: url('./Dancing_Script/DancingScript-SemiBold.ttf');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Dancing Script';
+    src: url('./Dancing_Script/DancingScript-Bold.ttf');
+    font-weight: 700;
+    font-style: normal;
+}
+
+/* 12. Noto Serif */
+@font-face {
+    font-family: 'Noto Serif';
+    src: url('./Noto_Serif/NotoSerif-Light.ttf');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Noto Serif';
+    src: url('./Noto_Serif/NotoSerif-Regular.ttf');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Noto Serif';
+    src: url('./Noto_Serif/NotoSerif-Medium.ttf');
+    font-weight: 500;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Noto Serif';
+    src: url('./Noto_Serif/NotoSerif-SemiBold.ttf');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Noto Serif';
+    src: url('./Noto_Serif/NotoSerif-Bold.ttf');
+    font-weight: 700;
+    font-style: normal;
+}
+
+/* 13. Rubik */
+@font-face {
+    font-family: 'Rubik';
+    src: url('./Rubik/Rubik-Light.ttf');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Rubik';
+    src: url('./Rubik/Rubik-Regular.ttf');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Rubik';
+    src: url('./Rubik/Rubik-Medium.ttf');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Rubik';
+    src: url('./Rubik/Rubik-Bold.ttf');
+    font-weight: 700;
+    font-style: normal;
+}
+
+/* 14. Ubuntu */
+@font-face {
+    font-family: 'Ubuntu';
+    src: url('./Ubuntu/Ubuntu-Light.ttf');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Ubuntu';
+    src: url('./Ubuntu/Ubuntu-Regular.ttf');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Ubuntu';
+    src: url('./Ubuntu/Ubuntu-Medium.ttf');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Ubuntu';
+    src: url('./Ubuntu/Ubuntu-Bold.ttf');
+    font-weight: 700;
+    font-style: normal;
+}
+
+/* 15. Oswald */
+@font-face {
+    font-family: 'Oswald';
+    src: url('./Oswald/Oswald-Light.ttf');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Oswald';
+    src: url('./Oswald/Oswald-Regular.ttf');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Oswald';
+    src: url('./Oswald/Oswald-Medium.ttf');
+    font-weight: 500;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Oswald';
+    src: url('./Oswald/Oswald-SemiBold.ttf');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Oswald';
+    src: url('./Oswald/Oswald-Bold.ttf');
+    font-weight: 700;
+    font-style: normal;
+}
+
+/* 16. Inter */
+@font-face {
+    font-family: 'Inter';
+    src: url('./Inter/Inter_18pt-Light.ttf');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Inter';
+    src: url('./Inter/Inter_18pt-Regular.ttf');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Inter';
+    src: url('./Inter/Inter_18pt-Medium.ttf');
+    font-weight: 500;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Inter';
+    src: url('./Inter/Inter_18pt-SemiBold.ttf');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Inter';
+    src: url('./Inter/Inter_18pt-Bold.ttf');
+    font-weight: 700;
+    font-style: normal;
+}
+
+/* 17. Lato */
+@font-face {
+    font-family: 'Lato';
+    src: url('./Lato/Lato-Light.ttf');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Lato';
+    src: url('./Lato/Lato-Regular.ttf');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Lato';
+    src: url('./Lato/Lato-Bold.ttf');
+    font-weight: 700;
+    font-style: normal;
+}
+
+/* 18. Open Sans */
+@font-face {
+    font-family: 'Open Sans';
+    src: url('./Open_Sans/OpenSans-Light.ttf');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Open Sans';
+    src: url('./Open_Sans/OpenSans-Regular.ttf');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Open Sans';
+    src: url('./Open_Sans/OpenSans-Medium.ttf');
+    font-weight: 500;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Open Sans';
+    src: url('./Open_Sans/OpenSans-SemiBold.ttf');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Open Sans';
+    src: url('./Open_Sans/OpenSans-Bold.ttf');
+    font-weight: 700;
+    font-style: normal;
+}
+
+/* 19. Roboto */
+@font-face {
+    font-family: 'Roboto';
+    src: url('./Roboto/Roboto-Light.ttf');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('./Roboto/Roboto-Regular.ttf');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('./Roboto/Roboto-Medium.ttf');
+    font-weight: 500;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Roboto';
+    src: url('./Roboto/Roboto-SemiBold.ttf');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('./Roboto/Roboto-Bold.ttf');
+    font-weight: 700;
+    font-style: normal;
+}
+
+/* 20. Raleway */
+@font-face {
+    font-family: 'Raleway';
+    src: url('./Raleway/Raleway-Light.ttf');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Raleway';
+    src: url('./Raleway/Raleway-Regular.ttf');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Raleway';
+    src: url('./Raleway/Raleway-Medium.ttf');
+    font-weight: 500;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Raleway';
+    src: url('./Raleway/Raleway-SemiBold.ttf');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Raleway';
+    src: url('./Raleway/Raleway-Bold.ttf');
+    font-weight: 700;
+    font-style: normal;
+}
+
+/* 21. Poppins */
+@font-face {
+    font-family: 'Poppins';
+    src: url('./Poppins/Poppins-Light.ttf');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Poppins';
+    src: url('./Poppins/Poppins-Regular.ttf');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Poppins';
+    src: url('./Poppins/Poppins-Medium.ttf');
+    font-weight: 500;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Poppins';
+    src: url('./Poppins/Poppins-SemiBold.ttf');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Poppins';
+    src: url('./Poppins/Poppins-Bold.ttf');
+    font-weight: 700;
+    font-style: normal;
+}
+
+/* 22. Barlow */
+@font-face {
+    font-family: 'Barlow';
+    src: url('./Barlow/Barlow-Light.ttf');
+    font-weight: 300;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Barlow';
+    src: url('./Barlow/Barlow-Regular.ttf');
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Barlow';
+    src: url('./Barlow/Barlow-Medium.ttf');
+    font-weight: 500;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Barlow';
+    src: url('./Barlow/Barlow-SemiBold.ttf');
+    font-weight: 600;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Barlow';
+    src: url('./Barlow/Barlow-Bold.ttf');
+    font-weight: 700;
+    font-style: normal;
+}
+
+/* 23.Work Sans */
+@font-face {
+    font-family: 'Work Sans';
+    src: url('./Work_Sans/WorkSans-Light.ttf');
+    font-weight: 300;
+}
+@font-face {
+    font-family: 'Work Sans';
+    src: url('./Work_Sans/WorkSans-Regular.ttf');
+    font-weight: 400;
+}
+@font-face {
+    font-family: 'Work Sans';
+    src: url('./Work_Sans/WorkSans-Medium.ttf');
+    font-weight: 500;
+}
+@font-face {
+    font-family: 'Work Sans';
+    src: url('./Work_Sans/WorkSans-SemiBold.ttf');
+    font-weight: 600;
+}
+@font-face {
+    font-family: 'Work Sans';
+    src: url('./Work_Sans/WorkSans-Bold.ttf');
+    font-weight: 700;
+}
+
+/* 24. Quicksand */
+
+@font-face {
+    font-family: 'Quicksand';
+    src: url('./Quicksand/Quicksand-Light.ttf');
+    font-weight: 300;
+}
+@font-face {
+    font-family: 'Quicksand';
+    src: url('./Quicksand/Quicksand-Regular.ttf');
+    font-weight: 400;
+}
+@font-face {
+    font-family: 'Quicksand';
+    src: url('./Quicksand/Quicksand-Medium.ttf');
+    font-weight: 500;
+}
+@font-face {
+    font-family: 'Quicksand';
+    src: url('./Quicksand/Quicksand-SemiBold.ttf');
+    font-weight: 600;
+}
+@font-face {
+    font-family: 'Quicksand';
+    src: url('./Quicksand/Quicksand-Bold.ttf');
+    font-weight: 700;
+}
+
+/* 25. Playwrite IN */
+
+@font-face {
+    font-family: 'Playwrite IN';
+    src: url('./Playwrite_IN/PlaywriteIN-Light.ttf');
+    font-weight: 300;
+}
+@font-face {
+    font-family: 'Playwrite IN';
+    src: url('./Playwrite_IN/PlaywriteIN-Regular.ttf');
+    font-weight: 400;
+}
+
+/* 26. Playfair Display */
+@font-face {
+    font-family: 'Playfair Display';
+    src: url('./Playfair_Display/PlayfairDisplay-Regular.ttf');
+    font-weight: 400;
+}
+@font-face {
+    font-family: 'Playfair Display';
+    src: url('./Playfair_Display/PlayfairDisplay-Medium.ttf');
+    font-weight: 500;
+}
+@font-face {
+    font-family: 'Playfair Display';
+    src: url('./Playfair_Display/PlayfairDisplay-Bold.ttf');
+    font-weight: 700;
+}
+
+/* 27. Merriweather */
+
+@font-face {
+    font-family: 'Merriweather';
+    src: url('./Merriweather/Merriweather_24pt-Light.ttf');
+    font-weight: 300;
+}
+@font-face {
+    font-family: 'Merriweather';
+    src: url('./Merriweather/Merriweather_24pt-Regular.ttf');
+    font-weight: 400;
+}
+@font-face {
+    font-family: 'Merriweather';
+    src: url('./Merriweather/Merriweather_24pt-Medium.ttf');
+    font-weight: 500;
+}
+@font-face {
+    font-family: 'Merriweather';
+    src: url('./Merriweather/Merriweather_24pt-SemiBold.ttf');
+    font-weight: 600;
+}
+@font-face {
+    font-family: 'Merriweather';
+    src: url('./Merriweather/Merriweather_24pt-Bold.ttf');
+    font-weight: 700;
+}
+
+/* 28. Manrope */
+
+@font-face {
+    font-family: 'Manrope';
+    src: url('./Manrope/Manrope-Light.ttf');
+    font-weight: 300;
+}
+@font-face {
+    font-family: 'Manrope';
+    src: url('./Manrope/Manrope-Regular.ttf');
+    font-weight: 400;
+}
+@font-face {
+    font-family: 'Manrope';
+    src: url('./Manrope/Manrope-Medium.ttf');
+    font-weight: 500;
+}
+@font-face {
+    font-family: 'Manrope';
+    src: url('./Manrope/Manrope-SemiBold.ttf');
+    font-weight: 600;
+}
+@font-face {
+    font-family: 'Manrope';
+    src: url('./Manrope/Manrope-Bold.ttf');
+    font-weight: 700;
+}
+
+/* 29. Fira Sans */
+
+@font-face {
+    font-family: 'Fira Sans';
+    src: url('./Fira_Sans/FiraSans-Light.ttf');
+    font-weight: 300;
+}
+@font-face {
+    font-family: 'Fira Sans';
+    src: url('./Fira_Sans/FiraSans-Regular.ttf');
+    font-weight: 400;
+}
+@font-face {
+    font-family: 'Fira Sans';
+    src: url('./Fira_Sans/FiraSans-Medium.ttf');
+    font-weight: 500;
+}
+@font-face {
+    font-family: 'Fira Sans';
+    src: url('./Fira_Sans/FiraSans-SemiBold.ttf');
+    font-weight: 600;
+}
+@font-face {
+    font-family: 'Fira Sans';
+    src: url('./Fira_Sans/FiraSans-Bold.ttf');
+    font-weight: 700;
+}
+
+/* 30. Josefin Sans */
+
+@font-face {
+    font-family: 'Josefin Sans';
+    src: url('./Josefin_Sans/JosefinSans-Light.ttf');
+    font-weight: 300;
+}
+@font-face {
+    font-family: 'Josefin Sans';
+    src: url('./Josefin_Sans/JosefinSans-Regular.ttf');
+    font-weight: 400;
+}
+@font-face {
+    font-family: 'Josefin Sans';
+    src: url('./Josefin_Sans/JosefinSans-Medium.ttf');
+    font-weight: 500;
+}
+@font-face {
+    font-family: 'Josefin Sans';
+    src: url('./Josefin_Sans/JosefinSans-SemiBold.ttf');
+    font-weight: 600;
+}
+@font-face {
+    font-family: 'Josefin Sans';
+    src: url('./Josefin_Sans/JosefinSans-Bold.ttf');
+    font-weight: 700;
+}
+
+/* 31. Vollkorn */
+
+@font-face {
+    font-family: 'Vollkorn';
+    src: url('./Vollkorn/Vollkorn-Regular.ttf');
+    font-weight: 400;
+}
+@font-face {
+    font-family: 'Vollkorn';
+    src: url('./Vollkorn/Vollkorn-Medium.ttf');
+    font-weight: 500;
+}
+@font-face {
+    font-family: 'Vollkorn';
+    src: url('./Vollkorn/Vollkorn-SemiBold.ttf');
+    font-weight: 600;
+}
+@font-face {
+    font-family: 'Vollkorn';
+    src: url('./Vollkorn/Vollkorn-Bold.ttf');
+    font-weight: 700;
+}
