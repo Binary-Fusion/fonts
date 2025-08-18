@@ -769,3 +769,359 @@
     src: url('./Vollkorn/Vollkorn-Bold.ttf');
     font-weight: 700;
 }
+
+/* 32. Impact */
+@font-face {
+    font-family: 'Impact';
+    src: url('./Impact/Impact.ttf');
+    font-weight: 400;
+}
+
+/* 33. Helvetica */
+@font-face {
+    font-family: 'Helvetica';
+    src: url('./helvetica/helvetica-light.ttf');
+    font-weight: 300;
+}
+@font-face {
+    font-family: 'Helvetica';
+    src: url('./helvetica/Helvetica.ttf');
+    font-weight: 400;
+}
+@font-face {
+    font-family: 'Helvetica';
+    src: url('./helvetica/Helvetica-Bold.ttf');
+    font-weight: 700;
+}
+
+/* 34. Lemon Milk */
+@font-face {
+    font-family: 'Lemon Milk';
+    src: url('./lemon_milk/LEMONMILK-Light.otf');
+    font-weight: 300;
+}
+@font-face {
+    font-family: 'Lemon Milk';
+    src: url('./lemon_milk/LEMONMILK-Regular.otf');
+    font-weight: 400;
+}
+@font-face {
+    font-family: 'Lemon Milk';
+    src: url('./lemon_milk/LEMONMILK-Medium.otf');
+    font-weight: 500;
+}
+@font-face {
+    font-family: 'Lemon Milk';
+    src: url('./lemon_milk/LEMONMILK-Bold.otf');
+    font-weight: 700;
+}
+
+/* 35. Mochica */
+@font-face {
+    font-family: 'Mochica';
+    src: url('./mochica/Mochica_PERSONAL_USE_ONLY.otf');
+    font-weight: 400;
+}
+
+/* 36. Soul Billani */
+@font-face {
+    font-family: 'Soul Billani';
+    src: url('./soul_billani/SoulBillani.otf');
+    font-weight: 400;
+}
+
+/* 37. Sriracha */
+@font-face {
+    font-family: 'Sriracha';
+    src: url('./Sriracha/Sriracha-Regular.ttf');
+    font-weight: 400;
+}
+
+/* 38. Squada One */
+@font-face {
+    font-family: 'Squada One';
+    src: url('./Squada_One/SquadaOne-Regular.ttf');
+    font-weight: 400;
+}
+
+/* 39. Rubik Wet Paint */
+@font-face {
+    font-family: 'Rubik Wet Paint';
+    src: url('./Rubik_Wet_Paint/RubikWetPaint-Regular.ttf');
+    font-weight: 400;
+}
+
+/* 40. Risque */
+@font-face {
+    font-family: 'Risque';
+    src: url('./Risque/Risque-Regular.ttf');
+    font-weight: 400;
+}
+
+/* 41. Questrial */
+@font-face {
+    font-family: 'Questrial';
+    src: url('./Questrial/Questrial-Regular.ttf');
+    font-weight: 400;
+}
+
+/* 42. Quando */
+@font-face {
+    font-family: 'Quando';
+    src: url('./Quando/Quando-Regular.ttf');
+    font-weight: 400;
+}
+
+/* 43. Proza Libre */
+@font-face {
+    font-family: 'Proza Libre';
+    src: url('./Proza_Libre/ProzaLibre-Regular.ttf');
+    font-weight: 400;
+}
+@font-face {
+    font-family: 'Proza Libre';
+    src: url('./Proza_Libre/ProzaLibre-Medium.ttf');
+    font-weight: 500;
+}
+@font-face {
+    font-family: 'Proza Libre';
+    src: url('./Proza_Libre/ProzaLibre-SemiBold.ttf');
+    font-weight: 600;
+}
+@font-face {
+    font-family: 'Proza Libre';
+    src: url('./Proza_Libre/ProzaLibre-Bold.ttf');
+    font-weight: 700;
+}
+@font-face {
+    font-family: 'Proza Libre';
+    src: url('./Proza_Libre/ProzaLibre-ExtraBold.ttf');
+    font-weight: 800;
+}
+
+/* 44. Prosto One */
+@font-face {
+    font-family: 'Prosto One';
+    src: url('./Prosto_One/ProstoOne-Regular.ttf');
+    font-weight: 400;
+}
+
+/* 45. Pridi */
+@font-face {
+    font-family: 'Pridi';
+    src: url('./Pridi/Pridi-Light.ttf');
+    font-weight: 300;
+}
+@font-face {
+    font-family: 'Pridi';
+    src: url('./Pridi/Pridi-Regular.ttf');
+    font-weight: 400;
+}
+@font-face {
+    font-family: 'Pridi';
+    src: url('./Pridi/Pridi-Medium.ttf');
+    font-weight: 500;
+}
+@font-face {
+    font-family: 'Pridi';
+    src: url('./Pridi/Pridi-SemiBold.ttf');
+    font-weight: 600;
+}
+@font-face {
+    font-family: 'Pridi';
+    src: url('./Pridi/Pridi-Bold.ttf');
+    font-weight: 700;
+}
+
+/* 46. Mochiy Pop One */
+@font-face {
+    font-family: 'Mochiy Pop One';
+    src: url('./Mochiy_Pop_One/MochiyPopOne-Regular.ttf');
+    font-weight: 400;
+}
+
+/* 47. Merienda */
+@font-face {
+    font-family: 'Merienda';
+    src: url('./Merienda/Merienda-Light.ttf');
+    font-weight: 300;
+}
+@font-face {
+    font-family: 'Merienda';
+    src: url('./Merienda/Merienda-Regular.ttf');
+    font-weight: 400;
+}
+@font-face {
+    font-family: 'Merienda';
+    src: url('./Merienda/Merienda-Medium.ttf');
+    font-weight: 500;
+}
+@font-face {
+    font-family: 'Merienda';
+    src: url('./Merienda/Merienda-SemiBold.ttf');
+    font-weight: 600;
+}
+@font-face {
+    font-family: 'Merienda';
+    src: url('./Merienda/Merienda-Bold.ttf');
+    font-weight: 700;
+}
+@font-face {
+    font-family: 'Merienda';
+    src: url('./Merienda/Merienda-Black.ttf');
+    font-weight: 900;
+}
+
+/* 48. Konkhmer Sleokchher */
+@font-face {
+    font-family: 'Konkhmer Sleokchher';
+    src: url('./Konkhmer_Sleokchher/KonkhmerSleokchher-Regular.ttf');
+    font-weight: 400;
+}
+
+/* 49. Fredoka */
+@font-face {
+    font-family: 'Fredoka';
+    src: url('./Fredoka/Fredoka-Light.ttf');
+    font-weight: 300;
+}
+@font-face {
+    font-family: 'Fredoka';
+    src: url('./Fredoka/Fredoka-Regular.ttf');
+    font-weight: 400;
+}
+@font-face {
+    font-family: 'Fredoka';
+    src: url('./Fredoka/Fredoka-Medium.ttf');
+    font-weight: 500;
+}
+@font-face {
+    font-family: 'Fredoka';
+    src: url('./Fredoka/Fredoka-SemiBold.ttf');
+    font-weight: 600;
+}
+@font-face {
+    font-family: 'Fredoka';
+    src: url('./Fredoka/Fredoka-Bold.ttf');
+    font-weight: 700;
+}
+
+/* 50. Eagle Lake */
+@font-face {
+    font-family: 'Eagle Lake';
+    src: url('./Eagle_Lake/EagleLake-Regular.ttf');
+    font-weight: 400;
+}
+
+/* 51. Days One */
+@font-face {
+    font-family: 'Days One';
+    src: url('./Days_One/DaysOne-Regular.ttf');
+    font-weight: 400;
+}
+
+/* 52. Croissant One */
+@font-face {
+    font-family: 'Croissant One';
+    src: url('./Croissant_One/CroissantOne-Regular.ttf');
+    font-weight: 400;
+}
+
+/* 53. Cherry Cream Soda */
+@font-face {
+    font-family: 'Cherry Cream Soda';
+    src: url('./Cherry_Cream_Soda/CherryCreamSoda-Regular.ttf');
+    font-weight: 400;
+}
+
+/* 54. Chakra Petch */
+@font-face {
+    font-family: 'Chakra Petch';
+    src: url('./Chakra_Petch/ChakraPetch-Light.ttf');
+    font-weight: 300;
+}
+@font-face {
+    font-family: 'Chakra Petch';
+    src: url('./Chakra_Petch/ChakraPetch-Regular.ttf');
+    font-weight: 400;
+}
+@font-face {
+    font-family: 'Chakra Petch';
+    src: url('./Chakra_Petch/ChakraPetch-Medium.ttf');
+    font-weight: 500;
+}
+@font-face {
+    font-family: 'Chakra Petch';
+    src: url('./Chakra_Petch/ChakraPetch-SemiBold.ttf');
+    font-weight: 600;
+}
+@font-face {
+    font-family: 'Chakra Petch';
+    src: url('./Chakra_Petch/ChakraPetch-Bold.ttf');
+    font-weight: 700;
+}
+
+/* 55. Braah One */
+@font-face {
+    font-family: 'Braah One';
+    src: url('./Braah_One/BraahOne-Regular.ttf');
+    font-weight: 400;
+}
+
+/* 56. Bebas Neue */
+@font-face {
+    font-family: 'Bebas Neue';
+    src: url('./Bebas_Neue/BebasNeue-Regular.ttf');
+    font-weight: 400;
+}
+
+/* 57. Alkatra */
+@font-face {
+    font-family: 'Alkatra';
+    src: url('./Alkatra/Alkatra-Regular.ttf');
+    font-weight: 400;
+}
+@font-face {
+    font-family: 'Alkatra';
+    src: url('./Alkatra/Alkatra-Medium.ttf');
+    font-weight: 500;
+}
+@font-face {
+    font-family: 'Alkatra';
+    src: url('./Alkatra/Alkatra-SemiBold.ttf');
+    font-weight: 600;
+}
+@font-face {
+    font-family: 'Alkatra';
+    src: url('./Alkatra/Alkatra-Bold.ttf');
+    font-weight: 700;
+}
+
+/* 58. Reem Kufi Fun */
+@font-face {
+    font-family: 'Reem Kufi Fun';
+    src: url('./Reem_Kufi_Fun/ReemKufiFun-Regular.ttf');
+    font-weight: 400;
+}
+@font-face {
+    font-family: 'Reem Kufi Fun';
+    src: url('./Reem_Kufi_Fun/ReemKufiFun-Medium.ttf');
+    font-weight: 500;
+}
+@font-face {
+    font-family: 'Reem Kufi Fun';
+    src: url('./Reem_Kufi_Fun/ReemKufiFun-SemiBold.ttf');
+    font-weight: 600;
+}
+@font-face {
+    font-family: 'Reem Kufi Fun';
+    src: url('./Reem_Kufi_Fun/ReemKufiFun-Bold.ttf');
+    font-weight: 700;
+}
+
+/* 59. Protest Revolution */
+@font-face {
+    font-family: 'Protest Revolution';
+    src: url('./Protest_Revolution/ProtestRevolution-Regular.ttf');
+    font-weight: 400;
+}
