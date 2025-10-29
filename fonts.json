@@ -3,527 +3,1375 @@
     "label": "Aclonica",
     "value": "\"Aclonica\", sans-serif",
     "fontWeight": [
-      { "label": "Regular", "value": "400" }
+      {
+        "label": "Regular",
+        "value": "400"
+      }
     ]
   },
   {
     "label": "Antonio",
     "value": "\"Antonio\", sans-serif",
     "fontWeight": [
-      { "label": "Light", "value": "300" },
-      { "label": "Regular", "value": "400" },
-      { "label": "Medium", "value": "500" },
-      { "label": "SemiBold", "value": "600" },
-      { "label": "Bold", "value": "700" }
+      {
+        "label": "Light",
+        "value": "300"
+      },
+      {
+        "label": "Regular",
+        "value": "400"
+      },
+      {
+        "label": "Medium",
+        "value": "500"
+      },
+      {
+        "label": "SemiBold",
+        "value": "600"
+      },
+      {
+        "label": "Bold",
+        "value": "700"
+      }
     ]
   },
   {
     "label": "Maximum Impact",
     "value": "\"Maximum Impact\", sans-serif",
     "fontWeight": [
-      { "label": "Regular", "value": "400" }
+      {
+        "label": "Regular",
+        "value": "400"
+      }
     ]
   },
   {
     "label": "Readex Pro",
     "value": "\"Readex Pro\", sans-serif",
     "fontWeight": [
-      { "label": "Light", "value": "300" },
-      { "label": "Regular", "value": "400" },
-      { "label": "Medium", "value": "500" },
-      { "label": "SemiBold", "value": "600" },
-      { "label": "Bold", "value": "700" }
+      {
+        "label": "Light",
+        "value": "300"
+      },
+      {
+        "label": "Regular",
+        "value": "400"
+      },
+      {
+        "label": "Medium",
+        "value": "500"
+      },
+      {
+        "label": "SemiBold",
+        "value": "600"
+      },
+      {
+        "label": "Bold",
+        "value": "700"
+      }
     ]
   },
   {
     "label": "Red Rose",
     "value": "\"Red Rose\", sans-serif",
     "fontWeight": [
-      { "label": "Light", "value": "300" },
-      { "label": "Regular", "value": "400" },
-      { "label": "Medium", "value": "500" },
-      { "label": "SemiBold", "value": "600" },
-      { "label": "Bold", "value": "700" }
+      {
+        "label": "Light",
+        "value": "300"
+      },
+      {
+        "label": "Regular",
+        "value": "400"
+      },
+      {
+        "label": "Medium",
+        "value": "500"
+      },
+      {
+        "label": "SemiBold",
+        "value": "600"
+      },
+      {
+        "label": "Bold",
+        "value": "700"
+      }
     ]
   },
   {
     "label": "Russo One",
     "value": "\"Russo One\", sans-serif",
     "fontWeight": [
-      { "label": "Regular", "value": "400" }
+      {
+        "label": "Regular",
+        "value": "400"
+      }
     ]
   },
   {
     "label": "Montserrat",
     "value": "\"Montserrat\", sans-serif",
     "fontWeight": [
-      { "label": "Light", "value": "300" },
-      { "label": "Regular", "value": "400" },
-      { "label": "Medium", "value": "500" },
-      { "label": "Bold", "value": "700" }
+      {
+        "label": "Light",
+        "value": "300"
+      },
+      {
+        "label": "Regular",
+        "value": "400"
+      },
+      {
+        "label": "Medium",
+        "value": "500"
+      },
+      {
+        "label": "Bold",
+        "value": "700"
+      }
     ]
   },
   {
     "label": "System-Ui",
     "value": "system-ui",
     "fontWeight": [
-      { "label": "Regular", "value": "400" }
+      {
+        "label": "Regular",
+        "value": "400"
+      }
     ]
   },
   {
     "label": "Monospace",
     "value": "monospace",
     "fontWeight": [
-      { "label": "Regular", "value": "400" }
+      {
+        "label": "Regular",
+        "value": "400"
+      }
     ]
   },
   {
     "label": "Dancing Script",
     "value": "\"Dancing Script\", cursive",
     "fontWeight": [
-      { "label": "Regular", "value": "400" },
-      { "label": "Medium", "value": "500" },
-      { "label": "SemiBold", "value": "600" },
-      { "label": "Bold", "value": "700" }
+      {
+        "label": "Regular",
+        "value": "400"
+      },
+      {
+        "label": "Medium",
+        "value": "500"
+      },
+      {
+        "label": "SemiBold",
+        "value": "600"
+      },
+      {
+        "label": "Bold",
+        "value": "700"
+      }
     ]
   },
   {
     "label": "Noto Serif",
     "value": "\"Noto Serif\", serif",
     "fontWeight": [
-      { "label": "Light", "value": "300" },
-      { "label": "Regular", "value": "400" },
-      { "label": "Medium", "value": "500" },
-      { "label": "SemiBold", "value": "600" },
-      { "label": "Bold", "value": "700" }
+      {
+        "label": "Light",
+        "value": "300"
+      },
+      {
+        "label": "Regular",
+        "value": "400"
+      },
+      {
+        "label": "Medium",
+        "value": "500"
+      },
+      {
+        "label": "SemiBold",
+        "value": "600"
+      },
+      {
+        "label": "Bold",
+        "value": "700"
+      }
     ]
   },
   {
     "label": "Rubik",
     "value": "\"Rubik\", sans-serif",
     "fontWeight": [
-      { "label": "Light", "value": "300" },
-      { "label": "Regular", "value": "400" },
-      { "label": "Medium", "value": "500" },
-      { "label": "Bold", "value": "700" }
+      {
+        "label": "Light",
+        "value": "300"
+      },
+      {
+        "label": "Regular",
+        "value": "400"
+      },
+      {
+        "label": "Medium",
+        "value": "500"
+      },
+      {
+        "label": "Bold",
+        "value": "700"
+      }
     ]
   },
   {
     "label": "Ubuntu",
     "value": "\"Ubuntu\", sans-serif",
     "fontWeight": [
-      { "label": "Light", "value": "300" },
-      { "label": "Regular", "value": "400" },
-      { "label": "Medium", "value": "500" },
-      { "label": "Bold", "value": "700" }
+      {
+        "label": "Light",
+        "value": "300"
+      },
+      {
+        "label": "Regular",
+        "value": "400"
+      },
+      {
+        "label": "Medium",
+        "value": "500"
+      },
+      {
+        "label": "Bold",
+        "value": "700"
+      }
     ]
   },
   {
     "label": "Oswald",
     "value": "\"Oswald\", sans-serif",
     "fontWeight": [
-      { "label": "Light", "value": "300" },
-      { "label": "Regular", "value": "400" },
-      { "label": "Medium", "value": "500" },
-      { "label": "SemiBold", "value": "600" },
-      { "label": "Bold", "value": "700" }
+      {
+        "label": "Light",
+        "value": "300"
+      },
+      {
+        "label": "Regular",
+        "value": "400"
+      },
+      {
+        "label": "Medium",
+        "value": "500"
+      },
+      {
+        "label": "SemiBold",
+        "value": "600"
+      },
+      {
+        "label": "Bold",
+        "value": "700"
+      }
     ]
   },
   {
     "label": "Inter",
     "value": "\"Inter\", sans-serif",
     "fontWeight": [
-      { "label": "Light", "value": "300" },
-      { "label": "Regular", "value": "400" },
-      { "label": "Medium", "value": "500" },
-      { "label": "SemiBold", "value": "600" },
-      { "label": "Bold", "value": "700" }
+      {
+        "label": "Light",
+        "value": "300"
+      },
+      {
+        "label": "Regular",
+        "value": "400"
+      },
+      {
+        "label": "Medium",
+        "value": "500"
+      },
+      {
+        "label": "SemiBold",
+        "value": "600"
+      },
+      {
+        "label": "Bold",
+        "value": "700"
+      }
     ]
   },
   {
     "label": "Lato",
     "value": "\"Lato\", sans-serif",
     "fontWeight": [
-      { "label": "Light", "value": "300" },
-      { "label": "Regular", "value": "400" },
-      { "label": "Medium", "value": "500" },
-      { "label": "Bold", "value": "700" }
+      {
+        "label": "Light",
+        "value": "300"
+      },
+      {
+        "label": "Regular",
+        "value": "400"
+      },
+      {
+        "label": "Medium",
+        "value": "500"
+      },
+      {
+        "label": "Bold",
+        "value": "700"
+      }
     ]
   },
   {
     "label": "Open Sans",
     "value": "\"Open Sans\", sans-serif",
     "fontWeight": [
-      { "label": "Light", "value": "300" },
-      { "label": "Regular", "value": "400" },
-      { "label": "Medium", "value": "500" },
-      { "label": "SemiBold", "value": "600" },
-      { "label": "Bold", "value": "700" }
+      {
+        "label": "Light",
+        "value": "300"
+      },
+      {
+        "label": "Regular",
+        "value": "400"
+      },
+      {
+        "label": "Medium",
+        "value": "500"
+      },
+      {
+        "label": "SemiBold",
+        "value": "600"
+      },
+      {
+        "label": "Bold",
+        "value": "700"
+      }
     ]
   },
   {
     "label": "Roboto",
     "value": "\"Roboto\", sans-serif",
     "fontWeight": [
-      { "label": "Light", "value": "300" },
-      { "label": "Regular", "value": "400" },
-      { "label": "Medium", "value": "500" },
-      { "label": "SemiBold", "value": "600" },
-      { "label": "Bold", "value": "700" }
+      {
+        "label": "Light",
+        "value": "300"
+      },
+      {
+        "label": "Regular",
+        "value": "400"
+      },
+      {
+        "label": "Medium",
+        "value": "500"
+      },
+      {
+        "label": "SemiBold",
+        "value": "600"
+      },
+      {
+        "label": "Bold",
+        "value": "700"
+      }
     ]
   },
   {
     "label": "Raleway",
     "value": "\"Raleway\", sans-serif",
     "fontWeight": [
-      { "label": "Light", "value": "300" },
-      { "label": "Regular", "value": "400" },
-      { "label": "Medium", "value": "500" },
-      { "label": "SemiBold", "value": "600" },
-      { "label": "Bold", "value": "700" }
+      {
+        "label": "Light",
+        "value": "300"
+      },
+      {
+        "label": "Regular",
+        "value": "400"
+      },
+      {
+        "label": "Medium",
+        "value": "500"
+      },
+      {
+        "label": "SemiBold",
+        "value": "600"
+      },
+      {
+        "label": "Bold",
+        "value": "700"
+      }
     ]
   },
   {
     "label": "Poppins",
     "value": "\"Poppins\", sans-serif",
     "fontWeight": [
-      { "label": "Light", "value": "300" },
-      { "label": "Regular", "value": "400" },
-      { "label": "Medium", "value": "500" },
-      { "label": "SemiBold", "value": "600" },
-      { "label": "Bold", "value": "700" }
+      {
+        "label": "Light",
+        "value": "300"
+      },
+      {
+        "label": "Regular",
+        "value": "400"
+      },
+      {
+        "label": "Medium",
+        "value": "500"
+      },
+      {
+        "label": "SemiBold",
+        "value": "600"
+      },
+      {
+        "label": "Bold",
+        "value": "700"
+      }
     ]
   },
   {
     "label": "Barlow",
     "value": "\"Barlow\", sans-serif",
     "fontWeight": [
-      { "label": "Light", "value": "300" },
-      { "label": "Regular", "value": "400" },
-      { "label": "Medium", "value": "500" },
-      { "label": "SemiBold", "value": "600" },
-      { "label": "Bold", "value": "700" }
+      {
+        "label": "Light",
+        "value": "300"
+      },
+      {
+        "label": "Regular",
+        "value": "400"
+      },
+      {
+        "label": "Medium",
+        "value": "500"
+      },
+      {
+        "label": "SemiBold",
+        "value": "600"
+      },
+      {
+        "label": "Bold",
+        "value": "700"
+      }
     ]
   },
   {
     "label": "Fira_Sans",
     "value": "\"Fira_Sans\", sans-serif",
     "fontWeight": [
-      { "label": "Light", "value": "300" },
-      { "label": "Regular", "value": "400" },
-      { "label": "Medium", "value": "500" },
-      { "label": "SemiBold", "value": "600" },
-      { "label": "Bold", "value": "700" }
+      {
+        "label": "Light",
+        "value": "300"
+      },
+      {
+        "label": "Regular",
+        "value": "400"
+      },
+      {
+        "label": "Medium",
+        "value": "500"
+      },
+      {
+        "label": "SemiBold",
+        "value": "600"
+      },
+      {
+        "label": "Bold",
+        "value": "700"
+      }
     ]
   },
   {
     "label": "Josefin_Sans",
     "value": "\"Josefin_Sans\", sans-serif",
     "fontWeight": [
-      { "label": "Light", "value": "300" },
-      { "label": "Regular", "value": "400" },
-      { "label": "Medium", "value": "500" },
-      { "label": "SemiBold", "value": "600" },
-      { "label": "Bold", "value": "700" }
+      {
+        "label": "Light",
+        "value": "300"
+      },
+      {
+        "label": "Regular",
+        "value": "400"
+      },
+      {
+        "label": "Medium",
+        "value": "500"
+      },
+      {
+        "label": "SemiBold",
+        "value": "600"
+      },
+      {
+        "label": "Bold",
+        "value": "700"
+      }
     ]
   },
   {
     "label": "Manrope",
     "value": "\"Manrope\", sans-serif",
     "fontWeight": [
-      { "label": "Light", "value": "300" },
-      { "label": "Regular", "value": "400" },
-      { "label": "Medium", "value": "500" },
-      { "label": "SemiBold", "value": "600" },
-      { "label": "Bold", "value": "700" }
+      {
+        "label": "Light",
+        "value": "300"
+      },
+      {
+        "label": "Regular",
+        "value": "400"
+      },
+      {
+        "label": "Medium",
+        "value": "500"
+      },
+      {
+        "label": "SemiBold",
+        "value": "600"
+      },
+      {
+        "label": "Bold",
+        "value": "700"
+      }
     ]
   },
   {
     "label": "Merriweather",
     "value": "\"Merriweather\", sans-serif",
     "fontWeight": [
-      { "label": "Light", "value": "300" },
-      { "label": "Regular", "value": "400" },
-      { "label": "Medium", "value": "500" },
-      { "label": "SemiBold", "value": "600" },
-      { "label": "Bold", "value": "700" }
+      {
+        "label": "Light",
+        "value": "300"
+      },
+      {
+        "label": "Regular",
+        "value": "400"
+      },
+      {
+        "label": "Medium",
+        "value": "500"
+      },
+      {
+        "label": "SemiBold",
+        "value": "600"
+      },
+      {
+        "label": "Bold",
+        "value": "700"
+      }
     ]
   },
   {
     "label": "Playfair_Display",
     "value": "\"Playfair_Display\", sans-serif",
     "fontWeight": [
-      { "label": "Regular", "value": "400" },
-      { "label": "Medium", "value": "500" },
-      { "label": "Bold", "value": "700" }
+      {
+        "label": "Regular",
+        "value": "400"
+      },
+      {
+        "label": "Medium",
+        "value": "500"
+      },
+      {
+        "label": "Bold",
+        "value": "700"
+      }
     ]
   },
   {
     "label": "Playwrite_IN",
     "value": "\"Playwrite_IN\", sans-serif",
     "fontWeight": [
-      { "label": "Light", "value": "300" },
-      { "label": "Regular", "value": "400" }
+      {
+        "label": "Light",
+        "value": "300"
+      },
+      {
+        "label": "Regular",
+        "value": "400"
+      }
     ]
   },
   {
     "label": "Quicksand",
     "value": "\"Quicksand\", sans-serif",
     "fontWeight": [
-      { "label": "Light", "value": "300" },
-      { "label": "Regular", "value": "400" },
-      { "label": "Medium", "value": "500" },
-      { "label": "SemiBold", "value": "600" },
-      { "label": "Bold", "value": "700" }
+      {
+        "label": "Light",
+        "value": "300"
+      },
+      {
+        "label": "Regular",
+        "value": "400"
+      },
+      {
+        "label": "Medium",
+        "value": "500"
+      },
+      {
+        "label": "SemiBold",
+        "value": "600"
+      },
+      {
+        "label": "Bold",
+        "value": "700"
+      }
     ]
   },
   {
     "label": "Vollkorn",
     "value": "\"Vollkorn\", sans-serif",
     "fontWeight": [
-      { "label": "Regular", "value": "400" },
-      { "label": "Medium", "value": "500" },
-      { "label": "SemiBold", "value": "600" },
-      { "label": "Bold", "value": "700" }
+      {
+        "label": "Regular",
+        "value": "400"
+      },
+      {
+        "label": "Medium",
+        "value": "500"
+      },
+      {
+        "label": "SemiBold",
+        "value": "600"
+      },
+      {
+        "label": "Bold",
+        "value": "700"
+      }
     ]
   },
   {
     "label": "Work_Sans",
     "value": "\"Work_Sans\", sans-serif",
     "fontWeight": [
-      { "label": "Light", "value": "300" },
-      { "label": "Regular", "value": "400" },
-      { "label": "Medium", "value": "500" },
-      { "label": "SemiBold", "value": "600" },
-      { "label": "Bold", "value": "700" }
+      {
+        "label": "Light",
+        "value": "300"
+      },
+      {
+        "label": "Regular",
+        "value": "400"
+      },
+      {
+        "label": "Medium",
+        "value": "500"
+      },
+      {
+        "label": "SemiBold",
+        "value": "600"
+      },
+      {
+        "label": "Bold",
+        "value": "700"
+      }
     ]
   },
   {
     "label": "Impact",
     "value": "\"Impact\", sans-serif",
     "fontWeight": [
-      { "label": "Regular", "value": "400" }
+      {
+        "label": "Regular",
+        "value": "400"
+      }
     ]
   },
   {
     "label": "Helvetica",
     "value": "\"Helvetica\", sans-serif",
     "fontWeight": [
-      { "label": "Light", "value": "300" },
-      { "label": "Regular", "value": "400" },
-      { "label": "Bold", "value": "700" }
+      {
+        "label": "Light",
+        "value": "300"
+      },
+      {
+        "label": "Regular",
+        "value": "400"
+      },
+      {
+        "label": "Bold",
+        "value": "700"
+      }
     ]
   },
   {
     "label": "Lemon Milk",
     "value": "\"Lemon Milk\", sans-serif",
     "fontWeight": [
-      { "label": "Light", "value": "300" },
-      { "label": "Regular", "value": "400" },
-      { "label": "Medium", "value": "500" },
-      { "label": "Bold", "value": "700" }
+      {
+        "label": "Light",
+        "value": "300"
+      },
+      {
+        "label": "Regular",
+        "value": "400"
+      },
+      {
+        "label": "Medium",
+        "value": "500"
+      },
+      {
+        "label": "Bold",
+        "value": "700"
+      }
     ]
   },
   {
     "label": "Mochica",
     "value": "\"Mochica\", sans-serif",
     "fontWeight": [
-      { "label": "Regular", "value": "400" }
+      {
+        "label": "Regular",
+        "value": "400"
+      }
     ]
   },
   {
     "label": "Soul Billani",
     "value": "\"Soul Billani\", cursive",
     "fontWeight": [
-      { "label": "Regular", "value": "400" }
+      {
+        "label": "Regular",
+        "value": "400"
+      }
     ]
   },
   {
     "label": "Sriracha",
     "value": "\"Sriracha\", cursive",
     "fontWeight": [
-      { "label": "Regular", "value": "400" }
+      {
+        "label": "Regular",
+        "value": "400"
+      }
     ]
   },
   {
     "label": "Squada One",
     "value": "\"Squada One\", display",
     "fontWeight": [
-      { "label": "Regular", "value": "400" }
+      {
+        "label": "Regular",
+        "value": "400"
+      }
     ]
   },
   {
     "label": "Rubik Wet Paint",
     "value": "\"Rubik Wet Paint\", display",
     "fontWeight": [
-      { "label": "Regular", "value": "400" }
+      {
+        "label": "Regular",
+        "value": "400"
+      }
     ]
   },
   {
     "label": "Risque",
     "value": "\"Risque\", display",
     "fontWeight": [
-      { "label": "Regular", "value": "400" }
+      {
+        "label": "Regular",
+        "value": "400"
+      }
     ]
   },
   {
     "label": "Questrial",
     "value": "\"Questrial\", sans-serif",
     "fontWeight": [
-      { "label": "Regular", "value": "400" }
+      {
+        "label": "Regular",
+        "value": "400"
+      }
     ]
   },
   {
     "label": "Quando",
     "value": "\"Quando\", serif",
     "fontWeight": [
-      { "label": "Regular", "value": "400" }
+      {
+        "label": "Regular",
+        "value": "400"
+      }
     ]
   },
   {
     "label": "Proza Libre",
     "value": "\"Proza Libre\", sans-serif",
     "fontWeight": [
-      { "label": "Regular", "value": "400" },
-      { "label": "Medium", "value": "500" },
-      { "label": "SemiBold", "value": "600" },
-      { "label": "Bold", "value": "700" },
-      { "label": "ExtraBold", "value": "800" }
+      {
+        "label": "Regular",
+        "value": "400"
+      },
+      {
+        "label": "Medium",
+        "value": "500"
+      },
+      {
+        "label": "SemiBold",
+        "value": "600"
+      },
+      {
+        "label": "Bold",
+        "value": "700"
+      },
+      {
+        "label": "ExtraBold",
+        "value": "800"
+      }
     ]
   },
   {
     "label": "Prosto One",
     "value": "\"Prosto One\", display",
     "fontWeight": [
-      { "label": "Regular", "value": "400" }
+      {
+        "label": "Regular",
+        "value": "400"
+      }
     ]
   },
   {
     "label": "Pridi",
     "value": "\"Pridi\", serif",
     "fontWeight": [
-      { "label": "Light", "value": "300" },
-      { "label": "Regular", "value": "400" },
-      { "label": "Medium", "value": "500" },
-      { "label": "SemiBold", "value": "600" },
-      { "label": "Bold", "value": "700" }
+      {
+        "label": "Light",
+        "value": "300"
+      },
+      {
+        "label": "Regular",
+        "value": "400"
+      },
+      {
+        "label": "Medium",
+        "value": "500"
+      },
+      {
+        "label": "SemiBold",
+        "value": "600"
+      },
+      {
+        "label": "Bold",
+        "value": "700"
+      }
     ]
   },
   {
     "label": "Mochiy Pop One",
     "value": "\"Mochiy Pop One\", display",
     "fontWeight": [
-      { "label": "Regular", "value": "400" }
+      {
+        "label": "Regular",
+        "value": "400"
+      }
     ]
   },
   {
     "label": "Merienda",
     "value": "\"Merienda\", cursive",
     "fontWeight": [
-      { "label": "Light", "value": "300" },
-      { "label": "Regular", "value": "400" },
-      { "label": "Medium", "value": "500" },
-      { "label": "SemiBold", "value": "600" },
-      { "label": "Bold", "value": "700" },
-      { "label": "Black", "value": "900" }
+      {
+        "label": "Light",
+        "value": "300"
+      },
+      {
+        "label": "Regular",
+        "value": "400"
+      },
+      {
+        "label": "Medium",
+        "value": "500"
+      },
+      {
+        "label": "SemiBold",
+        "value": "600"
+      },
+      {
+        "label": "Bold",
+        "value": "700"
+      },
+      {
+        "label": "Black",
+        "value": "900"
+      }
     ]
   },
   {
     "label": "Konkhmer Sleokchher",
     "value": "\"Konkhmer Sleokchher\", display",
     "fontWeight": [
-      { "label": "Regular", "value": "400" }
+      {
+        "label": "Regular",
+        "value": "400"
+      }
     ]
   },
   {
     "label": "Fredoka",
     "value": "\"Fredoka\", sans-serif",
     "fontWeight": [
-      { "label": "Light", "value": "300" },
-      { "label": "Regular", "value": "400" },
-      { "label": "Medium", "value": "500" },
-      { "label": "SemiBold", "value": "600" },
-      { "label": "Bold", "value": "700" }
+      {
+        "label": "Light",
+        "value": "300"
+      },
+      {
+        "label": "Regular",
+        "value": "400"
+      },
+      {
+        "label": "Medium",
+        "value": "500"
+      },
+      {
+        "label": "SemiBold",
+        "value": "600"
+      },
+      {
+        "label": "Bold",
+        "value": "700"
+      }
     ]
   },
   {
     "label": "Eagle Lake",
     "value": "\"Eagle Lake\", cursive",
     "fontWeight": [
-      { "label": "Regular", "value": "400" }
+      {
+        "label": "Regular",
+        "value": "400"
+      }
     ]
   },
   {
     "label": "Days One",
     "value": "\"Days One\", display",
     "fontWeight": [
-      { "label": "Regular", "value": "400" }
+      {
+        "label": "Regular",
+        "value": "400"
+      }
     ]
   },
   {
     "label": "Croissant One",
     "value": "\"Croissant One\", display",
     "fontWeight": [
-      { "label": "Regular", "value": "400" }
+      {
+        "label": "Regular",
+        "value": "400"
+      }
     ]
   },
   {
     "label": "Cherry Cream Soda",
     "value": "\"Cherry Cream Soda\", display",
     "fontWeight": [
-      { "label": "Regular", "value": "400" }
+      {
+        "label": "Regular",
+        "value": "400"
+      }
     ]
   },
   {
     "label": "Chakra Petch",
     "value": "\"Chakra Petch\", sans-serif",
     "fontWeight": [
-      { "label": "Light", "value": "300" },
-      { "label": "Regular", "value": "400" },
-      { "label": "Medium", "value": "500" },
-      { "label": "SemiBold", "value": "600" },
-      { "label": "Bold", "value": "700" }
+      {
+        "label": "Light",
+        "value": "300"
+      },
+      {
+        "label": "Regular",
+        "value": "400"
+      },
+      {
+        "label": "Medium",
+        "value": "500"
+      },
+      {
+        "label": "SemiBold",
+        "value": "600"
+      },
+      {
+        "label": "Bold",
+        "value": "700"
+      }
     ]
   },
   {
     "label": "Braah One",
     "value": "\"Braah One\", display",
     "fontWeight": [
-      { "label": "Regular", "value": "400" }
+      {
+        "label": "Regular",
+        "value": "400"
+      }
     ]
   },
   {
     "label": "Bebas Neue",
     "value": "\"Bebas Neue\", display",
     "fontWeight": [
-      { "label": "Regular", "value": "400" }
+      {
+        "label": "Regular",
+        "value": "400"
+      }
     ]
   },
   {
     "label": "Alkatra",
     "value": "\"Alkatra\", display",
     "fontWeight": [
-      { "label": "Regular", "value": "400" },
-      { "label": "Medium", "value": "500" },
-      { "label": "SemiBold", "value": "600" },
-      { "label": "Bold", "value": "700" }
+      {
+        "label": "Regular",
+        "value": "400"
+      },
+      {
+        "label": "Medium",
+        "value": "500"
+      },
+      {
+        "label": "SemiBold",
+        "value": "600"
+      },
+      {
+        "label": "Bold",
+        "value": "700"
+      }
     ]
   },
   {
     "label": "Reem Kufi Fun",
     "value": "\"Reem Kufi Fun\", sans-serif",
     "fontWeight": [
-      { "label": "Regular", "value": "400" },
-      { "label": "Medium", "value": "500" },
-      { "label": "SemiBold", "value": "600" },
-      { "label": "Bold", "value": "700" }
+      {
+        "label": "Regular",
+        "value": "400"
+      },
+      {
+        "label": "Medium",
+        "value": "500"
+      },
+      {
+        "label": "SemiBold",
+        "value": "600"
+      },
+      {
+        "label": "Bold",
+        "value": "700"
+      }
     ]
   },
   {
     "label": "Protest Revolution",
     "value": "\"Protest Revolution\", display",
     "fontWeight": [
-      { "label": "Regular", "value": "400" }
+      {
+        "label": "Regular",
+        "value": "400"
+      }
+    ]
+  },
+  {
+    "label": "Ramabhadra",
+    "value": "\"Ramabhadra\", sans-serif",
+    "fontWeight": [
+      {
+        "label": "Regular",
+        "value": "400"
+      }
+    ]
+  },
+  {
+    "label": "Staatliches",
+    "value": "\"Staatliches\", display",
+    "fontWeight": [
+      {
+        "label": "Regular",
+        "value": "400"
+      }
+    ]
+  },
+  {
+    "label": "Reggae One",
+    "value": "\"Reggae One\", display",
+    "fontWeight": [
+      {
+        "label": "Regular",
+        "value": "400"
+      }
+    ]
+  },
+  {
+    "label": "Rum Raisin",
+    "value": "\"Rum Raisin\", display",
+    "fontWeight": [
+      {
+        "label": "Regular",
+        "value": "400"
+      }
+    ]
+  },
+  {
+    "label": "Mulish",
+    "value": "\"Mulish\", sans-serif",
+    "fontWeight": [
+      {
+        "label": "Light",
+        "value": "300"
+      },
+      {
+        "label": "Regular",
+        "value": "400"
+      },
+      {
+        "label": "Medium",
+        "value": "500"
+      },
+      {
+        "label": "SemiBold",
+        "value": "600"
+      },
+      {
+        "label": "Bold",
+        "value": "700"
+      }
+    ]
+  },
+  {
+    "label": "Noto Serif KR",
+    "value": "\"Noto Serif KR\", serif",
+    "fontWeight": [
+      {
+        "label": "Light",
+        "value": "300"
+      },
+      {
+        "label": "Regular",
+        "value": "400"
+      },
+      {
+        "label": "Medium",
+        "value": "500"
+      },
+      {
+        "label": "SemiBold",
+        "value": "600"
+      },
+      {
+        "label": "Bold",
+        "value": "700"
+      }
+    ]
+  },
+  {
+    "label": "Montserrat Alternates",
+    "value": "\"Montserrat Alternates\", sans-serif",
+    "fontWeight": [
+      {
+        "label": "Light",
+        "value": "300"
+      },
+      {
+        "label": "Regular",
+        "value": "400"
+      },
+      {
+        "label": "Medium",
+        "value": "500"
+      },
+      {
+        "label": "SemiBold",
+        "value": "600"
+      },
+      {
+        "label": "Bold",
+        "value": "700"
+      }
+    ]
+  },
+  {
+    "label": "Metal Mania",
+    "value": "\"Metal Mania\", display",
+    "fontWeight": [
+      {
+        "label": "Regular",
+        "value": "400"
+      }
+    ]
+  },
+  {
+    "label": "Bagel Fat One",
+    "value": "\"Bagel Fat One\", display",
+    "fontWeight": [
+      {
+        "label": "Regular",
+        "value": "400"
+      }
+    ]
+  },
+  {
+    "label": "Cantora One",
+    "value": "\"Cantora One\", display",
+    "fontWeight": [
+      {
+        "label": "Regular",
+        "value": "400"
+      }
+    ]
+  },
+  {
+    "label": "Black Han Sans",
+    "value": "\"Black Han Sans\", display",
+    "fontWeight": [
+      {
+        "label": "Regular",
+        "value": "400"
+      }
+    ]
+  },
+  {
+    "label": "Arima",
+    "value": "\"Arima\", display",
+    "fontWeight": [
+      {
+        "label": "Light",
+        "value": "300"
+      },
+      {
+        "label": "Regular",
+        "value": "400"
+      },
+      {
+        "label": "Medium",
+        "value": "500"
+      },
+      {
+        "label": "SemiBold",
+        "value": "600"
+      },
+      {
+        "label": "Bold",
+        "value": "700"
+      }
+    ]
+  },
+  {
+    "label": "Hermeneus One",
+    "value": "\"Hermeneus One\", display",
+    "fontWeight": [
+      {
+        "label": "Regular",
+        "value": "400"
+      }
+    ]
+  },
+  {
+    "label": "Hind",
+    "value": "\"Hind\", sans-serif",
+    "fontWeight": [
+      {
+        "label": "Light",
+        "value": "300"
+      },
+      {
+        "label": "Regular",
+        "value": "400"
+      },
+      {
+        "label": "Medium",
+        "value": "500"
+      },
+      {
+        "label": "SemiBold",
+        "value": "600"
+      },
+      {
+        "label": "Bold",
+        "value": "700"
+      }
+    ]
+  },
+  {
+    "label": "Jaini",
+    "value": "\"Jaini\", display",
+    "fontWeight": [
+      {
+        "label": "Regular",
+        "value": "400"
+      }
+    ]
+  },
+  {
+    "label": "Anton",
+    "value": "\"Anton\", display",
+    "fontWeight": [
+      {
+        "label": "Regular",
+        "value": "400"
+      }
+    ]
+  },
+  {
+    "label": "Merienda One",
+    "value": "\"Merienda One\", display",
+    "fontWeight": [
+      {
+        "label": "Regular",
+        "value": "400"
+      }
+    ]
+  },
+  {
+    "label": "Josefin Slab",
+    "value": "\"Josefin Slab\", serif",
+    "fontWeight": [
+      {
+        "label": "Light",
+        "value": "300"
+      },
+      {
+        "label": "Regular",
+        "value": "400"
+      },
+      {
+        "label": "Medium",
+        "value": "500"
+      },
+      {
+        "label": "SemiBold",
+        "value": "600"
+      },
+      {
+        "label": "Bold",
+        "value": "700"
+      }
+    ]
+  },
+  {
+    "label": "Kavoon",
+    "value": "\"Kavoon\", display",
+    "fontWeight": [
+      {
+        "label": "Regular",
+        "value": "400"
+      }
+    ]
+  }
+  ,
+  {
+    "label": "Helvetica Inserat",
+    "value": "\"Helvetica Inserat\", sans-serif",
+    "fontWeight": [
+      {
+        "label": "Regular",
+        "value": "400"
+      }
+    ]
+  },
+  {
+    "label": "Helvetica Rounded",
+    "value": "\"Helvetica Rounded\", sans-serif",
+    "fontWeight": [
+      {
+        "label": "Bold",
+        "value": "700"
+      },
+      {
+        "label": "Black",
+        "value": "900"
+      }
     ]
   }
 ]
