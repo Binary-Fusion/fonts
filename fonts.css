@@ -1443,3 +1443,192 @@
   font-weight: 900;
   font-style: normal;
 }
+
+/* 81. Potta One */
+@font-face {
+  font-family: "Potta One";
+  src: url("./Potta_One/PottaOne-Regular.ttf");
+  font-weight: 400;
+  font-style: normal;
+}
+
+/* 82. Rowdies */
+@font-face {
+  font-family: "Rowdies";
+  src: url("./Rowdies/Rowdies-Light.ttf");
+  font-weight: 300;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Rowdies";
+  src: url("./Rowdies/Rowdies-Regular.ttf");
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Rowdies";
+  src: url("./Rowdies/Rowdies-Bold.ttf");
+  font-weight: 700;
+  font-style: normal;
+}
+
+/* 83. Karantina */
+@font-face {
+  font-family: "Karantina";
+  src: url("./Karantina/Karantina-Light.ttf");
+  font-weight: 300;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Karantina";
+  src: url("./Karantina/Karantina-Regular.ttf");
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Karantina";
+  src: url("./Karantina/Karantina-Bold.ttf");
+  font-weight: 700;
+  font-style: normal;
+}
+
+/* 84. Kaushan Script */
+@font-face {
+  font-family: "Kaushan Script";
+  src: url("./Kaushan_Script/KaushanScript-Regular.ttf");
+  font-weight: 400;
+  font-style: normal;
+}
+
+/* 85. Sahitya */
+@font-face {
+  font-family: "Sahitya";
+  src: url("./Sahitya/Sahitya-Regular.ttf");
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Sahitya";
+  src: url("./Sahitya/Sahitya-Bold.ttf");
+  font-weight: 700;
+  font-style: normal;
+}
+
+/* 86. Kdam Thmor Pro */
+@font-face {
+  font-family: "Kdam Thmor Pro";
+  src: url("./Kdam_Thmor_Pro/KdamThmorPro-Regular.ttf");
+  font-weight: 400;
+  font-style: normal;
+}
+
+/* 87. Neue Power */
+@font-face {
+  font-family: "Neue Power";
+  src: url("./Neue_Power/NeuePower-Ultra.ttf");
+  font-weight: 900;
+  font-style: normal;
+}
+
+/* 88. Koh Santepheap */
+@font-face {
+  font-family: "Koh Santepheap";
+  src: url("./Koh_Santepheap/KohSantepheap-Thin.ttf");
+  font-weight: 100;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Koh Santepheap";
+  src: url("./Koh_Santepheap/KohSantepheap-Light.ttf");
+  font-weight: 300;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Koh Santepheap";
+  src: url("./Koh_Santepheap/KohSantepheap-Regular.ttf");
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Koh Santepheap";
+  src: url("./Koh_Santepheap/KohSantepheap-Bold.ttf");
+  font-weight: 700;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Koh Santepheap";
+  src: url("./Koh_Santepheap/KohSantepheap-Black.ttf");
+  font-weight: 900;
+  font-style: normal;
+}
+
+/* 89. Koulen */
+@font-face {
+  font-family: "Koulen";
+  src: url("./Koulen/Koulen-Regular.ttf");
+  font-weight: 400;
+  font-style: normal;
+}
+
+/* 90. Protest Riot */
+@font-face {
+  font-family: "Protest Riot";
+  src: url("./Protest_Riot/ProtestRiot-Regular.ttf");
+  font-weight: 400;
+  font-style: normal;
+}
+
+/* 91. Rakkas */
+@font-face {
+  font-family: "Rakkas";
+  src: url("./Rakkas/Rakkas-Regular.ttf");
+  font-weight: 400;
+  font-style: normal;
+}
+
+/* 92. PT Serif Caption */
+@font-face {
+  font-family: "PT Serif Caption";
+  src: url("./PT_Serif_Caption/PTSerifCaption-Regular.ttf");
+  font-weight: 400;
+  font-style: normal;
+}
+
+/* 93. Bigshot One */
+@font-face {
+  font-family: "Bigshot One";
+  src: url("./Bigshot_One/BigshotOne-Regular.ttf");
+  font-weight: 400;
+  font-style: normal;
+}
+/* 94. Asap */
+@font-face {
+  font-family: "Asap";
+  src: url("./Asap/Asap-Light.ttf");
+  font-weight: 300;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Asap Condensed";
+  src: url("./AsapCondensed/AsapCondensed-Regular.ttf");
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Asap Condensed";
+  src: url("./AsapCondensed/AsapCondensed-Medium.ttf");
+  font-weight: 500;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Asap Condensed";
+  src: url("./AsapCondensed/AsapCondensed-SemiBold.ttf");
+  font-weight: 600;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Asap Condensed";
+  src: url("./AsapCondensed/AsapCondensed-Bold.ttf");
+  font-weight: 700;
+  font-style: normal;
+}
