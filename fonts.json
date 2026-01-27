@@ -1348,8 +1348,7 @@
         "value": "400"
       }
     ]
-  }
-  ,
+  },
   {
     "label": "Helvetica Inserat",
     "value": "\"Helvetica Inserat\", sans-serif",
@@ -1378,109 +1377,168 @@
     "label": "Potta One",
     "value": "\"Potta One\", display",
     "fontWeight": [
-      { "label": "Regular", "value": "400" }
+      {
+        "label": "Regular",
+        "value": "400"
+      }
     ]
   },
   {
     "label": "Rowdies",
     "value": "\"Rowdies\", display",
     "fontWeight": [
-      { "label": "Light", "value": "300" },
-      { "label": "Regular", "value": "400" },
-      { "label": "Bold", "value": "700" }
+      {
+        "label": "Light",
+        "value": "300"
+      },
+      {
+        "label": "Regular",
+        "value": "400"
+      },
+      {
+        "label": "Bold",
+        "value": "700"
+      }
     ]
   },
   {
     "label": "Karantina",
     "value": "\"Karantina\", display",
     "fontWeight": [
-      { "label": "Light", "value": "300" },
-      { "label": "Regular", "value": "400" },
-      { "label": "Bold", "value": "700" }
+      {
+        "label": "Light",
+        "value": "300"
+      },
+      {
+        "label": "Regular",
+        "value": "400"
+      },
+      {
+        "label": "Bold",
+        "value": "700"
+      }
     ]
   },
   {
     "label": "Kaushan Script",
     "value": "\"Kaushan Script\", cursive",
     "fontWeight": [
-      { "label": "Regular", "value": "400" }
+      {
+        "label": "Regular",
+        "value": "400"
+      }
     ]
   },
   {
     "label": "Sahitya",
     "value": "\"Sahitya\", serif",
     "fontWeight": [
-      { "label": "Regular", "value": "400" },
-      { "label": "Bold", "value": "700" }
+      {
+        "label": "Regular",
+        "value": "400"
+      },
+      {
+        "label": "Bold",
+        "value": "700"
+      }
     ]
   },
   {
     "label": "Kdam Thmor Pro",
     "value": "\"Kdam Thmor Pro\", display",
     "fontWeight": [
-      { "label": "Regular", "value": "400" }
+      {
+        "label": "Regular",
+        "value": "400"
+      }
     ]
   },
   {
     "label": "Neue Power",
     "value": "\"Neue Power\", display",
     "fontWeight": [
-      { "label": "Bold", "value": "700" }
+      {
+        "label": "Bold",
+        "value": "700"
+      }
     ]
   },
   {
     "label": "Koh Santepheap",
     "value": "\"Koh Santepheap\", display",
     "fontWeight": [
-      { "label": "Light", "value": "300" },
-      { "label": "Regular", "value": "400" },
-      { "label": "Bold", "value": "700" }
+      {
+        "label": "Light",
+        "value": "300"
+      },
+      {
+        "label": "Regular",
+        "value": "400"
+      },
+      {
+        "label": "Bold",
+        "value": "700"
+      }
     ]
   },
   {
     "label": "Koulen",
     "value": "\"Koulen\", display",
     "fontWeight": [
-      { "label": "Regular", "value": "400" }
+      {
+        "label": "Regular",
+        "value": "400"
+      }
     ]
   },
   {
     "label": "Protest Riot",
     "value": "\"Protest Riot\", display",
     "fontWeight": [
-      { "label": "Regular", "value": "400" }
+      {
+        "label": "Regular",
+        "value": "400"
+      }
     ]
   },
   {
     "label": "Rakkas",
     "value": "\"Rakkas\", display",
     "fontWeight": [
-      { "label": "Regular", "value": "400" }
+      {
+        "label": "Regular",
+        "value": "400"
+      }
     ]
   },
   {
     "label": "PT Serif Caption",
     "value": "\"PT Serif Caption\", serif",
     "fontWeight": [
-      { "label": "Regular", "value": "400" }
+      {
+        "label": "Regular",
+        "value": "400"
+      }
     ]
   },
   {
     "label": "Bigshot One",
     "value": "\"BigshotOne\", display",
     "fontWeight": [
-      { "label": "Regular", "value": "400" }
+      {
+        "label": "Regular",
+        "value": "400"
+      }
     ]
   },
   {
     "label": "Asap Condensed",
     "value": "\"Asap Condensed\", sans-serif",
     "fontWeight": [
-      { "label": "Light", "value": "300" },
-      { "label": "Regular", "value": "400" },
-      { "label": "Medium", "value": "500" },
-      { "label": "SemiBold", "value": "600" },
-      { "label": "Bold", "value": "700" }
+      {
+        "label": "Light",
+        "value": "300"
+      }
     ]
   }
 ]
