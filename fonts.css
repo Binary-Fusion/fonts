@@ -1610,25 +1610,26 @@
 }
 @font-face {
   font-family: "Asap Condensed";
-  src: url("./AsapCondensed/AsapCondensed-Regular.ttf");
+  /* src: url("./Asap_Condensed/AsapCondensed-Regular.ttf"); */
+  src: url("./Asap_Condensed/AsapCondensed-Regular.ttf");
   font-weight: 400;
   font-style: normal;
 }
 @font-face {
   font-family: "Asap Condensed";
-  src: url("./AsapCondensed/AsapCondensed-Medium.ttf");
+  src: url("./Asap_Condensed/AsapCondensed-Medium.ttf");
   font-weight: 500;
   font-style: normal;
 }
 @font-face {
   font-family: "Asap Condensed";
-  src: url("./AsapCondensed/AsapCondensed-SemiBold.ttf");
+  src: url("./Asap_Condensed/AsapCondensed-SemiBold.ttf");
   font-weight: 600;
   font-style: normal;
 }
 @font-face {
   font-family: "Asap Condensed";
-  src: url("./AsapCondensed/AsapCondensed-Bold.ttf");
+  src: url("./Asap_Condensed/AsapCondensed-Bold.ttf");
   font-weight: 700;
   font-style: normal;
 }
