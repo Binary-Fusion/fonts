@@ -569,7 +569,7 @@
   },
   {
     "label": "Quicksand",
-    "value": "\"Quicksand\", sans-serif",
+    "value": "Quicksand, sans-serif",
     "fontWeight": [
       {
         "label": "Light",
@@ -595,7 +595,7 @@
   },
   {
     "label": "Vollkorn",
-    "value": "\"Vollkorn\", sans-serif",
+    "value": "Vollkorn, sans-serif",
     "fontWeight": [
       {
         "label": "Regular",
@@ -617,7 +617,7 @@
   },
   {
     "label": "Work_Sans",
-    "value": "\"Work_Sans\", sans-serif",
+    "value": "Work_Sans, sans-serif",
     "fontWeight": [
       {
         "label": "Light",
@@ -1189,7 +1189,7 @@
   },
   {
     "label": "Cantora One",
-    "value": "Cantora One, sans-serif",
+    "value": "\"Cantora One\", display",
     "fontWeight": [
       {
         "label": "Regular",
@@ -1235,7 +1235,7 @@
   },
   {
     "label": "Hermeneus One",
-    "value": "\"Hermeneus One\", display",
+    "value": "Hermeneus One, display",
     "fontWeight": [
       {
         "label": "Regular",
@@ -1509,7 +1509,7 @@
   },
   {
     "label": "Bigshot One",
-    "value": "\"BigshotOne\", display",
+    "value": "Bigshot One, serif",
     "fontWeight": [
       {
         "label": "Regular",
