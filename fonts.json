@@ -551,7 +551,7 @@
   },
   {
     "label": "Playfair_Display",
-    "value": "\"Playfair_Display\", sans-serif",
+    "value": "Playfair Display, serif",
     "fontWeight": [
       {
         "label": "Regular",
