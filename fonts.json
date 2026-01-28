@@ -447,7 +447,7 @@
   },
   {
     "label": "Fira_Sans",
-    "value": "\"Fira_Sans\", sans-serif",
+    "value": "Fira Sans, sans-serif",
     "fontWeight": [
       {
         "label": "Light",
