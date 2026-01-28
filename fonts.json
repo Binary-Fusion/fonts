@@ -568,20 +568,6 @@
     ]
   },
   {
-    "label": "Playwrite_IN",
-    "value": "\"Playwrite_IN\", sans-serif",
-    "fontWeight": [
-      {
-        "label": "Light",
-        "value": "300"
-      },
-      {
-        "label": "Regular",
-        "value": "400"
-      }
-    ]
-  },
-  {
     "label": "Quicksand",
     "value": "\"Quicksand\", sans-serif",
     "fontWeight": [
